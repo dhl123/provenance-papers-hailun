@@ -10,6 +10,7 @@
 - [ProTracer](./ProTracer) Ma, Shiqing, Xiangyu Zhang, and Dongyan Xu. "Protracer: Towards Practical Provenance Tracing by Alternating Between Logging and Tainting." NDSS. 2016.
 - [RAIN](./RAIN) Ji, Yang, et al. "Rain: Refinable attack investigation with on-demand inter-process information flow tracking." Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security. ACM, 2017.
 - **[CamFlow](./CamFlow) Pasquier, Thomas, et al. "Practical whole-system provenance capture." Proceedings of the 2017 Symposium on Cloud Computing. ACM, 2017.**
+- [LSM](https://www.usenix.org/conference/11th-usenix-security-symposium/linux-security-modules-general-security-support-linux)C. Wright, C. Cowan, S. Smalley, J. Morris, and G. Kroah-Hartman, “Linux security modules: General security support for the linux kernel,” in USENIX Security Symposium, 2002.
 
 # Analysis (need better title)
 
